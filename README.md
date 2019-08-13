@@ -2,7 +2,7 @@
 
 A realtime chat app built using Laravel framework and Vue.JS frontend, powered by PubNub.
 
-[![pubnub blog](https://i.imgur.com/UulgV88.png)](https://www.pubnub.com/blog/building-a-laravel-chat-app-with-php-vue-js-and-pubnub/?devrel_gh=shyam-LaravelBasicChatApp)
+[![pubnub blog](https://i.imgur.com/lhyEEbz.png)](https://www.pubnub.com/blog/building-a-laravel-chat-app-with-php-vue-js-and-pubnub/?devrel_gh=shyam-LaravelBasicChatApp)
 
 ## Full Tutorial for Setup
 
